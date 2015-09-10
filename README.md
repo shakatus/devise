@@ -8,7 +8,7 @@ By [Plataformatec](http://plataformatec.com.br/).
 
 This README is [also available in a friendly navigable format](http://devise.plataformatec.com.br/).
 
-Devise is a flexible authentication solution for Rails based on Warden. It:
+Devise es una solucion  flexible de autenticacion para Rails. It:
 
 * Is Rack based;
 * Is a complete MVC solution based on Rails engines;
